@@ -14,3 +14,5 @@ _deps
 # osx
 .DS_Store
 
+#st3
+learncmake.sublime-workspace
